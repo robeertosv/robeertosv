@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @robeertosv
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning C++ & React
-- 📫 How to reach me info.rmggames@gmail.com
+- 📚 Software Engineering, UAH
 
 <!---
 robeertosv/robeertosv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

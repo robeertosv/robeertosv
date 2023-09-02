@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @robeertosv
-- 📚 Software Engineering, UAH
+- 📚 Computer Science Engineering, UAH
 
 <!---
 robeertosv/robeertosv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

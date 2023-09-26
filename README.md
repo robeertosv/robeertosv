@@ -23,5 +23,5 @@ Computer Science Engineering, UAH
 >
 > [LinkedIn](https://linkedin.com/in/robeertosv)
 
-[![ImLecus's GitHub stats](https://github-readme-stats.vercel.app/api?username=robeertosv&count_private=true&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robeertosv&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![ImLecus's GitHub stats](https://github-readme-stats.vercel.app/api?username=robeertosv&count_private=true&show_icons=true&hide_border=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robeertosv&layout=compact&hide_border=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)

@@ -11,12 +11,15 @@ Computer Science Engineering, UAH
 |-----------|
 |<a href="#"><img src="https://img.shields.io/badge/vs code-42abf1?style=for-the-badge&logo=visualstudiocode&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/git-f15233?style=for-the-badge&logo=git&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/npm-cc0000?style=for-the-badge&logo=npm&logoColor=white"/></a> <a href="#">|
 
-## Certifications
-## AWS Certified Cloud Practitioner
-<img src="https://i.ytimg.com/vi/qN6LJqYUGt0/maxresdefault.jpg" width="300px" />
+## Current Certifications
+<div>
+  <img src="https://images.credly.com/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png" width="200px">
+<img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="200px">
+<img src="https://images.credly.com/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" width="200px">
+</div>
 
-## Next -> AWS Certified Solutions Architect
-
+## Looking forward to
+<img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png">
 ## 👀 See more
 
 * My social media:

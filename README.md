@@ -1,6 +1,7 @@
 # 👋 Hola! Soy @robeertosv
 
 Computer Science Engineering, UAH
+
 AWS Solutions Architect
 ## 🥽 Technologies 
 | Basic | Framework|

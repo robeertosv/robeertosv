@@ -3,14 +3,27 @@
 Computer Science Engineering, UAH
 
 AWS Solutions Architect
-## 🥽 Technologies 
-| Basic | Framework|
-|-------|-----------|
-| <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> </a><a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a><a href="#"> <img src="https://img.shields.io/badge/JavaScript-373737?style=for-the-badge&logo=javascript&logoColor=F7DC6F"/></a>| <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/></a><a href="#"> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/></a> <a href="#"> <img src="https://img.shields.io/badge/react-16181d?style=for-the-badge&logo=react&logoColor=#61dafb"/></a>|<a href="#">
 
-| Tools |
-|-----------|
-|<a href="#"><img src="https://img.shields.io/badge/vs code-42abf1?style=for-the-badge&logo=visualstudiocode&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/git-f15233?style=for-the-badge&logo=git&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/npm-cc0000?style=for-the-badge&logo=npm&logoColor=white"/></a> <a href="#">|
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+
+<img src="https://skillicons.dev/icons?i=aws,firebase,googlecloud,html,css,js,react,github,java,nodejs,py,git&perline=14" />
+
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"><b> My GitHub stats</b>
+
+<div style="display:flex">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=robeertosv&show_icons=true&count_private=true&hide_border=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robeertosv&hide_border=true&theme=dark" />  
+</div>
+
+
+<br/>  
+<br/>
+
+
 
 ## Current Certifications
 <div>
@@ -21,11 +34,5 @@ AWS Solutions Architect
 
 ## Looking forward to
 <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png">
-## 👀 See more
-
 * My social media:
->
-> [LinkedIn](https://linkedin.com/in/robeertosv)
-
-[![ImLecus's GitHub stats](https://github-readme-stats.vercel.app/api?username=robeertosv&count_private=true&show_icons=true&hide_border=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robeertosv&layout=compact&hide_border=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+> https://linkedin.com/in/robeertosv

@@ -17,6 +17,7 @@ Computer Science Engineering, UAH
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robeertosv&hide_border=true&theme=dark" />  
 </div>
 
+![](https://github-profile-trophy.vercel.app/?username=robeertosv&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 <br/>  
 <br/>

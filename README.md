@@ -7,7 +7,7 @@ Computer Science Engineering, UAH
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
-<img src="https://skillicons.dev/icons?i=aws,firebase,googlecloud,html,css,js,react,github,java,nodejs,py,git,docker,mongodb&perline=14" />
+<img src="https://skillicons.dev/icons?i=aws,firebase,html,css,js,react,github,java,nodejs,py,git,docker,mongodb&perline=14" />
 
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"><b> My GitHub stats</b>
 
